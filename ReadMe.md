@@ -6,6 +6,10 @@ Created using PHP & MySQL
 
 ![ERD](/Hostel.svg)
 
+## Demo
+
+[Hostel Management System](https://youtu.be/J2JDz6A3w5w)
+
 ## Usage
 
 - Install [XAMPP](https://www.apachefriends.org/)
