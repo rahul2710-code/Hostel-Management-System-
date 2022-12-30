@@ -6,6 +6,11 @@ Created using PHP & MySQL
 
 ![ERD](/Hostel.svg)
 
+## Demo
+<figure class="video_container">
+  <iframe src="https://youtu.be/9wO5b8f59nE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Usage
 
 - Install [XAMPP](https://www.apachefriends.org/)
