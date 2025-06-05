@@ -19,4 +19,4 @@ Simple PHP & MySQL project to manage students in a hostel.
 3. Run the app on localhost.
 
 ## Author
-Your Name
+Rahul Selokar
